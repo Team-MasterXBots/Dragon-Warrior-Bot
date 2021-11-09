@@ -1,27 +1,27 @@
 <h1 align="center"><b>✨ Natsuki ✨</b></h1> 
 
-##  Are You Okay Baby I'm [Natsuki](https://t.me/TheNatsukibot) 
 
-## Unmaintained. The new repo of [@TheNatsukiBot](https://t.me/TheNatsukibot) is public. 
+
+## Unmaintained. The new repo of [@TheDragonWarriorBot](https://t.me/TheDragonWarriorBot) is public. 
 
 ## ⚡ (It is no longer based on this source code. The completely rewritten bot available now on telegram)
 
-![Contributors](https://contrib.rocks/image?repo=Sadew451/Natsuki)
+![Contributors](https://contrib.rocks/image?repo=Team-MasterXBots/Dragon-Warrior-Bot)
 
 <p align="center">
     <a href="https://python.org">
         <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
     </a>
-    <a href="https://GitHub.com/Sadew451">
+    <a href="https://GitHub.com/New-Dev3">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a> <br>
-    <img src="https://img.shields.io/github/license/Sadew451/Natsuki?style=for-the-badge&logo=appveyor" alt="LICENSE">
-    <img src="https://img.shields.io/github/contributors/Sadew451/Natsuki?style=for-the-badge&logo=appveyor" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/Sadew451/Natsuki?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/license/Team-MasterXBots/Dragon-Warrior-Bot?style=for-the-badge&logo=appveyor" alt="LICENSE">
+    <img src="https://img.shields.io/github/contributors/Team-MasterXBots/Dragon-Warrior-Bot?style=for-the-badge&logo=appveyor" alt="Contributors">
+    <img src="https://img.shields.io/github/repo-size/Team-MasterXBots/Dragon-Warrior-Bot?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
     <img src="https://img.shields.io/badge/python-3.9-green?style=for-the-badge&logo=appveyor" alt="Python Version">
-    <img src="https://img.shields.io/github/issues/Sadew451/Natsuki?style=for-the-badge&logo=appveyor" alt="Issues">
-    <img src="https://img.shields.io/github/forks/Sadew451/Natsuki?style=for-the-badge&logo=appveyor" alt="Forks">
-    <img src="https://img.shields.io/github/stars/Sadew451/Natsuki?style=for-the-badge&logo=appveyor" alt="Stars">
+    <img src="https://img.shields.io/github/issues/Team-MasterXBots/Dragon-Warrior-Bot?style=for-the-badge&logo=appveyor" alt="Issues">
+    <img src="https://img.shields.io/github/forks/Team-MasterXBots/Dragon-Warrior-Bot?style=for-the-badge&logo=appveyor" alt="Forks">
+    <img src="https://img.shields.io/github/stars/Team-MasterXBots/Dragon-Warrior-Bot?style=for-the-badge&logo=appveyor" alt="Stars">
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
@@ -32,12 +32,12 @@
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/Sadew451/Natsuki/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
+  <a href="https://github.com/Team-MasterXBots/Dragon-Warrior-Bot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/NatsukiSupport_Official"><img src="https://telegra.ph/file/12a67bfae430322ceb2e8.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/DragonWarriorSupport"><img src="https://telegra.ph/file/15cae7b6d9b7e39aeb8fd.jpg" width="400"></a></p>
 <p align="center">
-    <a href="https://github.com/sadew451/Natsuki/commits/SadewJayasekara"> <img src="https://img.shields.io/github/last-commit/sadew451/Natsuki?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Team-MasterXBots/Dragon-Warrior-Bot/commits/New-Dev3"> <img src="https://img.shields.io/github/last-commit/Team-MasterXBots/Dragon-Warrior-Bot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
   
 </p>
 
@@ -45,7 +45,7 @@
 
 # 🧙‍♀️ Deploy Guide
 
-## Complete guide on deploying @TheNatsukiBot's clone on Heroku.
+## Complete guide on deploying @TheDragonWarriorBot's clone on Heroku.
 
 ## This Tutorial is Old Bot Video But its Ok You Can Use it ✨
 
@@ -55,21 +55,21 @@
 
 ### TeamNatsuki
 
-## Avaiilable on Telegram as [@TheNatsukiBot](https://t.me/thenatsukibot)
+## Avaiilable on Telegram as [@TheDragonWarriorBot](https://t.me/TheDragonWarriorBot)
 
 # 🏃‍♂️ Easy Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/Natsuki.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Team-MasterXBots/Dragon-Warrior-Bot.git)
 
 <a href="https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 # ⚡ Support
-<a href="https://t.me/NatsukiSupport_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Natsuki_updates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/DragonWarriorSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/DragonWarriorUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Self-hosting (For Devs) 😎
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/Sadew451/Natsuki
+$ git clone https://github.com/Team-MasterXBots/Dragon-Warrior-Bot
 $ cd Natsuki
 # Upgrade sources
 $ bash deploy.sh
@@ -104,10 +104,10 @@ $ python3 -m Natsuki
 
 All other credits mentioned on top of scripts
 
-Anything missing kindly let us know at [Natsuki Support](https://t.me/NatsukiSupport_Official) or simply submit a pull request on the readme.
+Anything missing kindly let us know at [Dragon Warrior Support](https://t.me/DragonWarriorSupport) or simply submit a pull request on the readme.
 
 
 ## Devs & Contributors
 
-#### • SADEW JAYASEKARA    »»  <a href="https://github.com/SADEW451" alt="SADEW451"> <img src="https://img.shields.io/badge/SADEW451-90302f?logo=github" /></a> (OWNER)
-#### • DAMANTHA JASINGHA  »»  <a href="https://github.com/DAMANTHA126" alt="DAMANTHAJASINGHA"> <img src="https://img.shields.io/badge/DAMANTHA126-82CAFA?logo=github" /></a> (DEV)
+#### • Dev-v2    »»  <a href="https://github.com/New-Dev3" alt="New-Dev3"> <img src="https://img.shields.io/badge/New-Dev3 -90302f?logo=github" /></a> (OWNER)
+#### • Dev-v2  »»  <a href="https://github.com/New-Dev3" alt="New-Dev3"> <img src="https://img.shields.io/badge/New-Dev3 -82CAFA?logo=github" /></a> (DEV)
