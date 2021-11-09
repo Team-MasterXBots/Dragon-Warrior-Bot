@@ -53,7 +53,7 @@
 
 ☆ Video by [SADEW JAYASEKARA](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w) ☆
 
-### TeamNatsuki
+### TeamShadowZ
 
 ## Avaiilable on Telegram as [@TheDragonWarriorBot](https://t.me/TheDragonWarriorBot)
 
