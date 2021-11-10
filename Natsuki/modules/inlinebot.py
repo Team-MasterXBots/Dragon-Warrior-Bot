@@ -661,7 +661,7 @@ async def inline_query_handler(client, query):
         Time Zones:- {tom}
         Top Level Domain:- {lanester}
         wikipedia:- {wiki}</b>
-        Gathered By Daisy X.</b>
+        Gathered By Dragon Warrior.</b>
         """
             results.append(
                 InlineQueryResultArticle(
@@ -927,7 +927,7 @@ async def inline_query_handler(client, query):
                 + app_link
                 + "'>View in Play Store</a>"
             )
-            app_details += "\n\n===> @DaisySupport_Official <==="
+            app_details += "\n\n===> @DragonWarriorSupport <==="
             rip.append(
                 InlineQueryResultArticle(
                     title=f"Datails of {app_name}",
