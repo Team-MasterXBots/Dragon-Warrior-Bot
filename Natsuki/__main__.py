@@ -92,10 +92,10 @@ buttons = [
     ],
 ]
 
-NATSUKI_IMG = "https://telegra.ph/file/3a8b469d04fb07c3b4220.png"
+NATSUKI_IMG = "https://telegra.ph/file/d18e7d8e6fa77f796c828.png"
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/3a8b469d04fb07c3b4220.png)
+*Main Commands :* [🤖](https://telegra.ph/file/ebdb82329015e3e311741.jpg)
 
 /start: Starts me! You've probably already used this.
 /help: Click this, I'll let you know about myself!
