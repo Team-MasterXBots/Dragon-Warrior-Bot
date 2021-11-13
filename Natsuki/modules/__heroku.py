@@ -358,7 +358,7 @@ async def _(dyno):
 
         reply_to=dyno.id,
 
-        caption="yone Bot Logz.",
+        caption="Dragon Warrior Bot Logz.",
 
     )
 
