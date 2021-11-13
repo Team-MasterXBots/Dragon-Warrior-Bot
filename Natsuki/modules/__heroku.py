@@ -8,9 +8,9 @@ import heroku3
 
 import requests
 
-from HexzyBot import telethn as borg, HEROKU_APP_NAME, HEROKU_API_KEY, OWNER_ID
+from Natsuki import telethn as borg, HEROKU_APP_NAME, HEROKU_API_KEY, OWNER_ID
 
-from HexzyBot.events import register
+from Natsuki.events import register
 
 heroku_api = "https://api.heroku.com"
 
