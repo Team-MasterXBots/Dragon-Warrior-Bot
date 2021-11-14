@@ -4,7 +4,7 @@ import math
 
 import os
 
-import __heroku.py
+import Natsuki
 
 import requests
 
