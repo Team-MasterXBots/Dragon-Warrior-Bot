@@ -6,7 +6,7 @@ import aiofiles
 import aiohttp
 from pyrogram import filters
 
-from Natsuki.services.pyrogram import pbot as LYCIA
+from Natsuki.services.pyrogram import pbot as Natsuki
 
 
 async def fetch(url):
@@ -30,7 +30,7 @@ async def ai_lycia(url):
     return ai_name
 
 
-@LYCIA.on_message(filters.command("Dragon Warrior"))
+@Natsuki.on_message(filters.command("Dragon Warrior"))
 async def Lycia(_, message):
     if len(message.command) < 2:
         await message.reply_text("DragonWarrior AI Voice Chatbot")
@@ -40,7 +40,7 @@ async def Lycia(_, message):
     m = await message.reply_text("DragonWarrior Is Best...")
     try:
         L = await fetch(
-            f"https://api.affiliateplus.xyz/api/chatbot?message={lycia}&botname=DragonWarrior&ownername=TeamShadowZ&user=1"
+            f"https://api.affiliateplus.xyz/api/chatbot?message={lycia}&botname=DragonWarrior&ownername=New-Dev3&user=1"
         )
         chatbot = L["message"]
         VoiceAi = f"https://lyciavoice.herokuapp.com/lycia?text={chatbot}&lang=hi"
