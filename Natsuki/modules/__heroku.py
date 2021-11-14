@@ -4,7 +4,7 @@ import math
 
 import os
 
-import heroku3
+import __heroku.py
 
 import requests
 
